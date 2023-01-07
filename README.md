@@ -1,6 +1,28 @@
-# 💫 About Me:
-Hi, Akash Here<br>Technology for me is a sci-fi movie because it always carries challenges with you and I bet That You Can’t find yourself tedious from it, <br>and few past years I have addicted to it (Technology means when you enter into it can’t leave you without charge your brain).<br><br> My Work area <br>I’m highly enthusiastic about Cybersecurity and cloud computing so I do research about enterprise security management.<br> My Skills<br>SecDevOps : Code Analysis • CI/CD Monitoring • De-ployment Validations and vulnerability scan • Threat<br>Modeling • SAST/DAST • Continuous Validation • Security Automation • Shuﬄe<br>- SIEM<br>-SOAR <br><br>• Cloud Platforms : AWS • GCP • AZURE • DigitalOcean • IBM Cloud<br>• Applications : V-Sphare ESXI • Chef • Docker • Kubernetes • OpenShift • Open Stack • Proxmox<br><br>….. When I’m out of the mood I love to research space 🌌 and do related stuff on it.<br>Thanks for reading <br>Any help or question?<br>Ping me --> am898388@gmail.com 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">MOLA !  Akash Here a Cyber Security Engineer 🛡 Married to cloud ☁️</div>  
+  
+# 💫 About Me:
+- 🔭 I’m currently working as SOC Analyst   
+  
+
+- 🌱 I’m currently learning dApp Development  
+  
+
+- ❓ Ask me about anything related to CyberSec , Cloud and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashmajumder200) 
@@ -19,8 +41,8 @@ Hi, Akash Here<br>Technology for me is a sci-fi movie because it always carries 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme/2/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pubpri&icon=9&color=0)](https://visitcount.itsvg.in)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31smnahovpujxlatjfrkzzm2ccza&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31smnahovpujxlatjfrkzzm2ccza&cover_image=true&theme=default&show_offline=false&background_color=121212)]
