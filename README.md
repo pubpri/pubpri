@@ -40,27 +40,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<!DOCTYPE html>
-  const data = null;
-
-const xhr = new XMLHttpRequest();
-xhr.withCredentials = true;
-
-xhr.addEventListener("readystatechange", function () {
-	if (this.readyState === this.DONE) {
-		console.log(this.responseText);
-	}
-});
-
-xhr.open("GET", "https://webknox-jokes.p.rapidapi.com/jokes/search?keywords=kick%2C%20hard&numJokes=5&category=Chuck%20Norris&minRating=5");
-xhr.setRequestHeader("X-RapidAPI-Key", "SIGN-UP-FOR-KEY");
-xhr.setRequestHeader("X-RapidAPI-Host", "webknox-jokes.p.rapidapi.com");
-
-xhr.send(data);
-</HTML>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=pubpri&icon=9&color=0)](https://visitcount.itsvg.in)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31smnahovpujxlatjfrkzzm2ccza&cover_image=true&theme=default&show_offline=false&background_color=121212)]
