@@ -41,7 +41,24 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<herf> https://webknox-jokes.p.rapidapi.com/jokes/search?keywords=kick%2C%20hard&numJokes=5&category=Chuck%20Norris&minRating=5
+<!DOCTYPE html>
+  const data = null;
+
+const xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+	if (this.readyState === this.DONE) {
+		console.log(this.responseText);
+	}
+});
+
+xhr.open("GET", "https://webknox-jokes.p.rapidapi.com/jokes/search?keywords=kick%2C%20hard&numJokes=5&category=Chuck%20Norris&minRating=5");
+xhr.setRequestHeader("X-RapidAPI-Key", "SIGN-UP-FOR-KEY");
+xhr.setRequestHeader("X-RapidAPI-Host", "webknox-jokes.p.rapidapi.com");
+
+xhr.send(data);
+</HTML>
 
 
 ---
