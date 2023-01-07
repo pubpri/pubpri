@@ -41,7 +41,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="[http://webknox-jokes.p.rapidapi.com/](https://webknox-jokes.p.rapidapi.com/jokes/search?keywords=kick%2C%20hard&numJokes=5&category=Chuck%20Norris&minRating=5)" width="512px"/>
+<herf> https://webknox-jokes.p.rapidapi.com/jokes/search?keywords=kick%2C%20hard&numJokes=5&category=Chuck%20Norris&minRating=5
 
 
 ---
